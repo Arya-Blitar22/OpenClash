@@ -1,7 +1,7 @@
 ````
 $ pkg update && pkg upgrade -y
 $ pkg install git
-git clone https://github.com/Arya-Blitar22/OpenClash
+$ git clone https://github.com/Arya-Blitar22/OpenClash
 $ cd OpenClash
 $ bash install.sh
 Untuk Berhenti
