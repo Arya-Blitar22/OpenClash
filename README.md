@@ -7,17 +7,18 @@ $ bash install.sh
 Untuk Berhenti
 $ ctrl +c
 Untuk Edit Config Silahkan Out Dulu
-Lalu Masuk
+Klik ctrl d
+Lalu Masuk Termux Lagi
 $ micro .config/clash/config.yaml
-$ simpan ctlf + s ctrl + q
+$ simpan ctrl + s ctrl + q
 Config Berisi
 - Format Vmess
 - Format TrojanGo
 - Format Trojan Ssl
 - SadhowsoksSsr
 Silahkan Edit Sesuai Simc Card Sawer Kalian
-Untuk Jalankan Kemali Ketik clash (enter)
-Seting Apn Kalia
+Untuk Jalankan Kembali Ketik clash (enter)
+Seting Apn Kalian
 Nama : Bebas
 Apn : Bebas/internet
 Proxy : 127.0.0.1
@@ -28,5 +29,6 @@ http://127.0.0.1:9090/ui/#/proxies
 Klik Pojok Bawah Petir Hingga Ping Angka Kluar
 
 - Tutornya Di Yt Arya Channel99
+Yg Mau Order Akun Monggo
 - Wa 087721815317
 ````
