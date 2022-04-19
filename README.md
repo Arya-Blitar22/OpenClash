@@ -6,7 +6,8 @@ $ cd OpenClash
 $ bash install.sh
 Untuk Berhenti
 $ ctrl +c
-Untuk Edit Config
+Untuk Edit Config Silahkan Out Dulu
+Lalu Masuk
 $ micro .config/clash/config.yaml
 $ simpan ctlf + s ctrl + q
 Config Berisi
