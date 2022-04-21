@@ -13,6 +13,7 @@ $ micro .config/clash/config.yaml
 $ simpan ctrl + s ctrl + q
 Config Berisi
 - Format Vmess
+- Format Vmess Grpc
 - Format TrojanGo
 - Format Trojan Ssl
 - SadhowsoksSsr
