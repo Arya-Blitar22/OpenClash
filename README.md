@@ -15,6 +15,7 @@ Config Berisi
 - Format Vmess
 - Format Vmess Grpc
 - Format TrojanGo
+- Trojan Grpc
 - Format Trojan Ssl
 - SadhowsoksSsr
 Silahkan Edit Sesuai Simc Card Sawer Kalian
