@@ -30,6 +30,6 @@ Masukkan Alamat
 http://127.0.0.1:9090/ui/#/proxies
 Klik Pojok Bawah Petir Hingga Ping Angka Kluar
 
-Yg Mau Order Ssh Premium Akun Monggo
+Yg Mau Order Ssh Premium sg & indo Akun Monggo
 - Wa 087721815317
 ````
